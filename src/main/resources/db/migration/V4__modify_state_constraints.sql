@@ -1,0 +1,1 @@
+alter table addresses modify state varchar(255) not null;
